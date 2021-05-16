@@ -1,0 +1,5 @@
+opt imgin:../tolset/z_tools/osa_qemu/osaimgqe.bin
+copy from:../tolset/z_tools/OSASK0.PSF to:@:
+copy from:../tolset/z_tools/!built.bin to:@:
+
+opt imgout:../tolset/z_tools/qemu/fdimage0.bin
